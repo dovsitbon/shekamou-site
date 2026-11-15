@@ -1,0 +1,35 @@
+{
+  "_doc": "Bandeau d'infos en haut du site (refermable). Ordre de priorité : 1. une fermeture en cours ou dans les 14 jours (data/horaires.json → closures) ; 2. le premier message ci-dessous dont la période contient la date du jour (from / to inclus, AAAA-MM-JJ) : boisson du moment, fête persane, nouveauté ; 3. sinon « default ». Textes en fr, en et fa. Les fêtes persanes sont des vœux, pas des promesses d'événement : ajoutez le programme réel quand le gérant le donne.",
+  "items": [
+    {
+      "id": "yalda-2026",
+      "from": "2026-12-15",
+      "to": "2026-12-22",
+      "fr": "Shab-e Yalda, la plus longue nuit de l'année, approche : bonne fête à tous les gourmands.",
+      "en": "Shab-e Yalda, the longest night of the year, is coming: happy Yalda to all our regulars.",
+      "fa": "شب یلدا، بلندترین شب سال، نزدیک است. یلدایتان شیرین!"
+    },
+    {
+      "id": "nowruz-2027",
+      "from": "2027-03-14",
+      "to": "2027-03-27",
+      "fr": "Norouz, le Nouvel An persan, c'est le 20 mars : bonne année à vous.",
+      "en": "Nowruz, the Persian New Year, falls on 20 March: happy new year.",
+      "fa": "نوروزتان پیروز! سال نو مبارک."
+    },
+    {
+      "id": "boisson-ube-automne-2026",
+      "from": "2026-11-01",
+      "to": "2026-12-14",
+      "fr": "Boisson du moment : l'ube latte, violet, doux et onctueux.",
+      "en": "Drink of the moment: the ube latte, purple, mellow and creamy.",
+      "fa": "نوشیدنی این روزها: اوبه لاته، بنفش، ملایم و خامه‌ای."
+    }
+  ],
+  "default": {
+    "id": "infos",
+    "fr": "Ouvert 7 j/7 dès 8 h · Sur place ou à emporter",
+    "en": "Open 7 days a week from 8 am · Eat in or take away",
+    "fa": "هر روز هفته از ساعت ۸ باز هستیم · سرو در کافه یا بیرون‌بر"
+  }
+}

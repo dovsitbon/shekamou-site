@@ -1,0 +1,4 @@
+{
+  "_doc": "Vrais avis clients, à remplir avec l'accord de Shekamou (par exemple repris de sa fiche Google, avec le prénom et la date). Aucun avis n'est inventé : tant que la liste est vide, le site affiche trois emplacements « Avis client à venir » et un lien vers les avis Google. Format : { \"name\": \"Prénom\", \"date\": \"2026-10\", \"source\": \"Google\", \"rating\": 5, \"fr\": \"…\", \"en\": \"…\", \"fa\": \"…\" } (si une langue manque, le texte français s'affiche).",
+  "items": []
+}

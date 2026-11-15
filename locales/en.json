@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "title": "Iranian café and coffee shop in Paris 15, rue des Entrepreneurs | Shekamou",
+    "description": "Shekamou, specialty coffee and home-made Iranian food at 42 rue des Entrepreneurs (Paris 15). Latte art, ube latte, focaccias, ash reshteh. Open 7 days a week from 8 am, eat in or take away.",
+    "ogAlt": "Ube latte and croissant at Shekamou, a café in Paris 15",
+    "cuisines": ["Coffee", "Iranian", "Brunch", "Sandwiches"]
+  },
+  "nav": {
+    "skip": "Skip to content",
+    "main": "Main navigation",
+    "home": "home",
+    "menu": "Menu",
+    "iranian": "Iranian specialities",
+    "order": "Order",
+    "infos": "Visit",
+    "orderCta": "Order to take away",
+    "orderShort": "Order",
+    "seeMenu": "See the menu",
+    "directions": "Directions",
+    "call": "Call",
+    "lang": "Language",
+    "instagram": "Shekamou on Instagram",
+    "openMenu": "Open menu",
+    "close": "Close",
+    "shortcuts": "Shortcuts"
+  },
+  "intro": {
+    "skip": "Skip",
+    "tagline": "CAFÉ · PARIS 15"
+  },
+  "announce": {
+    "close": "Close banner"
+  },
+  "status": {
+    "open": "Open now",
+    "closed": "Closed now",
+    "until": "until {time}",
+    "opens": "opens {day} at {time}",
+    "today": "today",
+    "tomorrow": "tomorrow"
+  },
+  "rating": {
+    "label": "{value}/5 on Google",
+    "count": "over {count} reviews",
+    "aria": "Google rating: {value} out of 5, over {count} reviews. See the Google listing"
+  },
+  "hero": {
+    "eyebrow": "Coffee shop · Iranian kitchen · Rue des Entrepreneurs",
+    "title": "The café for food lovers.",
+    "sub": "Specialty coffee, colourful drinks and home-made Iranian dishes. Right in the heart of Paris's little Tehran.",
+    "alt": "Purple ube latte with a latte-art heart, next to a golden croissant, seen from above"
+  },
+  "tiles": {
+    "title": "What will it be?",
+    "items": {
+      "cafes": "Specialty coffee",
+      "boissons": "Ube, matcha & smoothies",
+      "brunch": "Brunch & focaccias",
+      "sandwichs": "Sandwiches",
+      "iranien": "Iranian dishes",
+      "douceurs": "Sweets"
+    }
+  },
+  "services": {
+    "title": "At Shekamou",
+    "items": [
+      { "t": "Open daily from 8 am", "p": "Until 8 pm, 9 pm on Saturdays." },
+      { "t": "Eat in", "p": "Free Wi-Fi, make yourself at home." },
+      { "t": "Take away", "p": "Order online, pick it up." },
+      { "t": "Iranian, home-made", "p": "Ash, haleem, adasi, bandari." }
+    ]
+  },
+  "carte": {
+    "eyebrow": "The menu",
+    "title": "From first coffee to afternoon cake.",
+    "intro": "Pick, add, pick up. Iranian dishes come with a short note for anyone trying them for the first time.",
+    "tablist": "Menu sections",
+    "add": "Add",
+    "inCart": "In your order",
+    "addAria": "Add {name} to your order",
+    "removeAria": "Remove one {name}",
+    "priceOnSite": "price in store",
+    "signature": "Signature",
+    "veg": "Vegetarian",
+    "weekend": "Weekends",
+    "isNew": "New",
+    "about": "What is it?",
+    "seeAll": "Full menu",
+    "checked": "Prices noted on {date}, for guidance only: the in-store price applies.",
+    "photoSoon": "Photo coming soon"
+  },
+  "cartBar": {
+    "items": "{n} item(s) in your order",
+    "view": "View my order"
+  },
+  "blocks": [
+    {
+      "eyebrow": "Specialty coffee",
+      "title": "Latte art is our little treat.",
+      "text": "Beans roasted in Paris by Terres de Café, a bright red Conti machine, and time to do it properly. Espresso, flat white, V60 filter. And a heart drawn in the milk.",
+      "cta": "See the menu"
+    },
+    {
+      "eyebrow": "Iranian kitchen",
+      "title": "One bowl of ash and the day looks better.",
+      "text": "Herb and noodle ash reshteh, weekend haleem, adasi, bandari sandwich. House recipes, served the way they are back home. New to it? We'll walk you through.",
+      "cta": "Discover"
+    },
+    {
+      "eyebrow": "Rue des Entrepreneurs",
+      "title": "In the heart of little Tehran.",
+      "text": "Persian grocers, pastry shops, restaurants: rue des Entrepreneurs has an Iranian accent. Shekamou moved in in February 2025, one minute from Charles Michels metro.",
+      "cta": "Directions"
+    }
+  ],
+  "order": {
+    "eyebrow": "Takeaway",
+    "title": "Your order",
+    "intro": "Add items from the menu, choose a pick-up time. We get it ready, you pay at the counter when you come by.",
+    "cart": "Basket",
+    "empty": "Your basket is empty for now.",
+    "toMenu": "Choose from the menu",
+    "addMore": "Add something else",
+    "total": "Estimated total",
+    "pickupDay": "Pick-up day",
+    "pickupTime": "Pick-up time",
+    "submit": "Send my order",
+    "messagePh": "Plant milk, no sugar, allergies, cutlery…",
+    "payOnSite": "Pay at the counter when you pick up.",
+    "doneTitle": "Order sent, thank you!",
+    "done": "Shekamou has your order. If anything is missing, we'll call you. A summary is on its way to your inbox too, if you gave your email.",
+    "doneNoMail": "Your order is ready to go, but automatic sending isn't switched on yet. To make sure it's taken into account, call the café with this summary in front of you.",
+    "mail": {
+      "subject": "Takeaway order",
+      "title": "New takeaway order",
+      "lines": "Items",
+      "pickup": "Pick-up",
+      "total": "Estimated total",
+      "name": "Name",
+      "phone": "Phone",
+      "email": "Email",
+      "message": "Notes",
+      "lang": "Customer language",
+      "confirmSubject": "Shekamou: your takeaway order",
+      "confirmIntro": "Hello {name}, thank you for your order. Here it is:",
+      "confirmOutro": "See you soon at 42 rue des Entrepreneurs, Paris 15. Any question? +33 9 56 70 91 12."
+    }
+  },
+  "trays": {
+    "eyebrow": "Offices & parties",
+    "title": "Platters for everyone.",
+    "intro": "A team breakfast, a meeting, a birthday, a Persian celebration: tell us how many you'll be and what you'd enjoy. We'll come back with a proposal.",
+    "note": "Platters are made to order: the café confirms options and prices.",
+    "kind": "Occasion",
+    "kinds": {
+      "office": "Office meeting",
+      "breakfast": "Team breakfast",
+      "party": "Birthday, party",
+      "iranian": "Persian celebration",
+      "other": "Other"
+    },
+    "wantsLegend": "What you'd enjoy",
+    "wants": {
+      "coffee": "Coffee & hot drinks",
+      "viennoiseries": "Pastries",
+      "sandwiches": "Focaccia sandwiches",
+      "iranian": "Iranian dishes",
+      "cakes": "Cakes",
+      "drinks": "Juices & smoothies"
+    },
+    "date": "Date",
+    "time": "Preferred time",
+    "guests": "Number of people",
+    "submit": "Send my request",
+    "messagePh": "Delivery address or pick-up at the café, budget, allergies…",
+    "small": "For fewer than {n} people, simply order to take away.",
+    "doneTitle": "Request sent, thank you!",
+    "done": "The café will get back to you by phone or email with a proposal.",
+    "doneNoMail": "Your request is ready, but automatic sending isn't switched on yet. Call the café with this summary to arrange it together.",
+    "mail": {
+      "subject": "Platter request",
+      "title": "New platter request",
+      "date": "Date",
+      "kind": "Occasion",
+      "guests": "People",
+      "wants": "Wishes",
+      "name": "Name",
+      "phone": "Phone",
+      "email": "Email",
+      "message": "Message",
+      "confirmSubject": "Shekamou: your platter request",
+      "confirmIntro": "Hello {name}, thank you for your request. Here it is:",
+      "confirmOutro": "The café will be in touch shortly with a proposal. Shekamou, 42 rue des Entrepreneurs, Paris 15 · +33 9 56 70 91 12."
+    }
+  },
+  "form": {
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email",
+    "message": "Notes",
+    "optional": "optional",
+    "chooseTime": "Choose a time",
+    "noTime": "No slots left that day",
+    "sending": "Sending…",
+    "failed": "That didn't go through. Please try again, or call the café.",
+    "orCall": "Or call",
+    "privacy": "Your details are only used to handle this request.",
+    "again": "New request",
+    "errors": {
+      "name": "Please enter your name.",
+      "phone": "Please enter a valid phone number.",
+      "email": "This email address doesn't look right.",
+      "emailRequired": "Please enter your email to receive the proposal.",
+      "time": "Please choose a time.",
+      "cart": "Add at least one item from the menu.",
+      "date": "Please choose a date.",
+      "guests": "Please enter the number of people.",
+      "kind": "Please choose the occasion."
+    }
+  },
+  "reviews": {
+    "eyebrow": "Reviews",
+    "title": "What the food lovers say.",
+    "intro": "Over 1,200 reviews on Google, 4.8 out of 5. With their permission, we'll share a few customers' words here.",
+    "slot": "Customer review coming soon",
+    "google": "Read the reviews on Google"
+  },
+  "infos": {
+    "eyebrow": "Visit",
+    "title": "Come and see us.",
+    "address": "Address",
+    "metro": "Metro",
+    "stations": [
+      { "name": "Charles Michels", "line": "Line 10", "walk": "1 min walk" },
+      { "name": "Commerce", "line": "Line 8", "walk": "7 min walk" }
+    ],
+    "hours": "Opening hours",
+    "phone": "Phone",
+    "wifi": "Eat in",
+    "wifiText": "Free Wi-Fi, laptops welcome on weekdays.",
+    "closed": "Closed",
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    "mapTitle": "Map to Shekamou, 42 rue des Entrepreneurs",
+    "mapLoad": "Show the Google map",
+    "mapNote": "The map loads from Google Maps when you click."
+  },
+  "faq": {
+    "eyebrow": "Questions",
+    "title": "Good to know.",
+    "items": [
+      { "q": "Do I need to book?", "a": "No, we don't take bookings: drop in whenever you like, 7 days a week. For a group or platters, send us a request from the Platters page." },
+      { "q": "Are there vegetarian or vegan options?", "a": "Yes. Ash reshteh is fully vegetarian, as are the grilled aubergine sandwich, the egg toasts, the smoothies and most of the sweets. For something free of animal products, ask at the counter: we'll tell you what's possible that day." },
+      { "q": "Do you have plant-based milk?", "a": "Yes, every coffee, latte, matcha and ube latte can be made with plant milk. Just mention it when you order." },
+      { "q": "Can I order to take away?", "a": "Yes: build your order from the menu, pick a collection time and pay at the counter when you arrive. You can also call +33 9 56 70 91 12. Shekamou is on Deliveroo too." },
+      { "q": "Can I work from the café?", "a": "On weekdays, gladly: free Wi-Fi and laptops welcome. At weekend brunch time the room is busy and the rules may differ, so ask at the counter." },
+      { "q": "When is haleem served?", "a": "On Saturdays and Sundays, made fresh for the weekend. Ash reshteh and adasi depend on the day: give us a call if you're coming especially." },
+      { "q": "How can I pay?", "a": "You pay at the counter, whether you eat in or collect an order. For platters, the café explains payment along with its proposal." }
+    ]
+  },
+  "footer": {
+    "tagline": "The art of good coffee, rue des Entrepreneurs. In Persian, a shekamou is someone who loves to eat.",
+    "hours": "Opening hours",
+    "weekdays": "Sunday – Friday",
+    "saturday": "Saturday",
+    "pages": "The café",
+    "legal": "Legal notice",
+    "rights": "Shekamou, Paris 15. Photos: Shekamou."
+  },
+  "pages": {
+    "carte": {
+      "title": "Menu",
+      "metaTitle": "Menu and prices: coffee, ube latte, brunch, Iranian dishes | Shekamou Paris 15",
+      "metaDescription": "Shekamou's menu, rue des Entrepreneurs: espresso, flat white, ube latte, mango matcha, brunch, focaccia sandwiches, ash reshteh, haleem, saffron cake. Order to take away.",
+      "h1": "The menu",
+      "intro": "Coffee, colourful drinks, brunch, sandwiches on home-made focaccia, Iranian dishes and sweets. Add to your order and pick it up."
+    },
+    "commander": {
+      "title": "Order to take away",
+      "metaTitle": "Order to take away at Shekamou, Paris 15",
+      "metaDescription": "Order coffee, sandwiches and Iranian dishes to take away from Shekamou, 42 rue des Entrepreneurs. Choose your pick-up time, pay at the counter.",
+      "h1": "Order to take away",
+      "intro": "Your basket, a pick-up time, your name: that's it. Pay at the counter when you come by."
+    },
+    "plateaux": {
+      "title": "Office & party platters",
+      "metaTitle": "Breakfast, sandwich and cake platters for offices and parties | Shekamou Paris 15",
+      "metaDescription": "Team breakfast, meeting, birthday or Persian celebration: request platters of coffee, pastries, focaccias, Iranian dishes and cakes from Shekamou, Paris 15.",
+      "h1": "Platters for offices and parties",
+      "intro": "Coffee, pastries, focaccias, Iranian dishes and cakes, to share. Tell us the date and how many of you there are, we'll suggest the rest."
+    },
+    "iranien": {
+      "title": "Iranian café in Paris",
+      "metaTitle": "Iranian café in Paris: ash reshteh, haleem, bandari | Shekamou, Paris 15",
+      "metaDescription": "Shekamou, an Iranian café on rue des Entrepreneurs (Paris 15): ash reshteh, weekend haleem, adasi, bandari sandwich, saffron and pistachio cake. Eat in or take away.",
+      "h1": "Iranian café in Paris",
+      "intro": "In Persian, shekamou (شکمو) means someone who loves to eat. Specialty coffee in the morning, Tehran dishes at lunch, and always a little saffron.",
+      "dishesTitle": "The house Iranian dishes",
+      "sections": [
+        { "h": "A Parisian café, an Iranian kitchen", "p": ["Shekamou opened in February 2025 at 42 rue des Entrepreneurs. At the counter, a proper coffee shop: espresso, flat white, latte art, ube latte. In the kitchen, the dishes people eat in Iran, made on site.", "You'll hear Persian, French and English. And everyone ends up ordering a bowl of ash."] },
+        { "h": "The little Tehran of the 15th", "p": ["Around rue des Entrepreneurs, Persian grocers, pastry shops and Iranian restaurants have lined the streets for years. Shekamou is its coffee shop: a coffee before the shopping, a bowl of ash after.", "Charles Michels metro (line 10) is one minute away, Commerce (line 8) seven."] },
+        { "h": "Saffron, pistachio, rose", "p": ["The sweets keep the accent: saffron cake with rose petals, pistachio cake, pomegranate juice. With a glass of tea, or a latte."] }
+      ]
+    },
+    "paris15": {
+      "title": "Coffee shop in Paris 15",
+      "metaTitle": "Coffee shop in Paris 15: specialty coffee and brunch, rue des Entrepreneurs | Shekamou",
+      "metaDescription": "Shekamou, a coffee shop in the 15th arrondissement: Terres de Café beans, latte art, ube latte, matcha, brunch and focaccias. Free Wi-Fi, open daily from 8 am. Charles Michels metro.",
+      "h1": "Coffee shop in Paris 15",
+      "intro": "Specialty coffee, colourful drinks and brunch, one minute from Charles Michels metro. Open every day from 8 am.",
+      "sections": [
+        { "h": "Specialty coffee on rue des Entrepreneurs", "p": ["The beans come from Terres de Café, a Paris roaster, and go through a Conti machine. Espresso at €3, flat white, cappuccino, V60 filter, and decaf for the afternoon.", "Latte art comes with it: heart, tulip or rosetta, depending on the barista's mood."] },
+        { "h": "From breakfast to afternoon tea", "p": ["Morning: croissant and coffee. Lunch: a sandwich on home-made focaccia, pastrami, crispy chicken or grilled aubergine. For brunch, English breakfast and egg plates. Afternoon: ube latte, mango matcha or a smoothie, with a slice of saffron cake."] },
+        { "h": "Work, meet, take away", "p": ["Free Wi-Fi, laptops welcome on weekdays. In a hurry? Order online and pick up at the time you chose."] }
+      ]
+    },
+    "legal": {
+      "title": "Legal notice",
+      "metaTitle": "Legal notice | Shekamou",
+      "metaDescription": "Legal notice for the website of Shekamou, café at 42 rue des Entrepreneurs, Paris 15.",
+      "h1": "Legal notice"
+    }
+  },
+  "legal": {
+    "editor": "Publisher",
+    "siret": "SIRET",
+    "director": "Publication director",
+    "host": "Hosting",
+    "photos": "Photos",
+    "photosText": "Photos published by Shekamou on its Instagram account {handle}.",
+    "data": "Personal data",
+    "dataText": "Information sent through the forms (name, phone, email, order) is used only to handle your request. It is never sold or used for advertising. The site sets no analytics cookies. For access or deletion requests, contact the café.",
+    "toFill": "To be completed"
+  },
+  "alt": {
+    "hero": "Purple ube latte with a latte-art heart, next to a golden croissant",
+    "latte-coeur": "Cappuccino with a chocolate heart drawn on top, on a wooden table",
+    "cappuccino-grains": "Cappuccino in a red cup with a leaf in latte art, coffee beans around it",
+    "latte-art-versee": "The barista pours milk and draws a rosetta on a latte",
+    "flat-white": "Flat white with a tulip in latte art, held in both hands",
+    "ube-latte-glace": "Purple iced ube latte in a Shekamou cup, croissant beside it",
+    "ube-chantilly": "Purple ube drink topped with whipped cream, held in one hand",
+    "matcha-mangue": "Mango matcha in three layers: mango, milk and green matcha",
+    "smoothies-trio": "Three colourful smoothies, green, purple and yellow, held together",
+    "espresso-banana-shake": "Chocolate espresso banana shake next to a banana",
+    "smoothie-mangue": "Thick mango smoothie in a glass with a straw",
+    "jus-grenade": "Deep red pomegranate juice with open pomegranates",
+    "jus-melon": "Fresh melon juice with melon slices on a plate",
+    "frappe-chocolat": "Chocolate frappé with whipped cream and chocolate-streaked glass",
+    "iced-americano": "Iced americano next to a slice of cake",
+    "chocolat-chaud": "Hot chocolate with latte art and a slice of chocolate cake",
+    "cappuccino-fenetre": "Cappuccino with a rosetta, by the shop window",
+    "jus-fraise": "Pink strawberry smoothie in a Shekamou cup, fresh strawberries",
+    "ash-reshteh": "Bowl of ash reshteh: herb and noodle soup with kashk, fried onions and mint",
+    "haleem": "Bowl of haleem dusted with cinnamon, with a piece of bread",
+    "haleem-roses": "Smooth haleem decorated with cinnamon and dried rose petals",
+    "soupe-lentilles": "Iranian lentil soup, adasi, with fresh parsley",
+    "english-breakfast": "English breakfast: fried egg, sausage, beans, focaccia and orange juice",
+    "oeufs-bacon-avocat": "Plate of fried eggs, bacon, avocado, red cabbage and focaccia",
+    "toast-oeufs-brouilles": "Scrambled eggs on toast with cherry tomatoes, seen from above",
+    "assiette-brunch": "Brunch plate: scrambled eggs, sausage, avocado, salad and focaccia",
+    "yaourt-granola": "Bowl of yoghurt with strawberries and granola, seen from above",
+    "pancakes": "Pancakes drizzled with chocolate, topped with a strawberry",
+    "english-muffin": "English muffins filled with egg and melted cheddar",
+    "croissant-garni": "Filled croissant with rocket and egg",
+    "bagel": "Poppy-seed bagel with ham and lettuce",
+    "salade-poulet": "Large salad with crispy chicken and croutons",
+    "pastrami": "Pastrami sandwich on focaccia with red cabbage and cheddar, crisps on the side",
+    "pastrami-coupe": "Cross-section of a pastrami sandwich: thin slices, cheddar and pickle",
+    "poulet-croustillant": "Crispy chicken focaccia sandwich with salad, held in both hands",
+    "focaccia-aubergine": "Grilled aubergine focaccia with pepper and rocket, on a red plate",
+    "focaccias-planche": "Assorted focaccia sandwiches on a board, bottled juices behind",
+    "toast-thon": "Tuna toastie with cherry tomatoes and rocket",
+    "focaccia-jambon": "Chicken ham and rocket focaccia sandwich",
+    "gateau-safran": "Slice of saffron cake with pistachio and rose petals, glass of tea",
+    "gateau-pistache": "Slice of green pistachio cake with rose petals, black coffee",
+    "trio-gateaux": "Three slices of cake: saffron, pistachio and chocolate",
+    "roule-fraise": "Strawberry and pistachio roll cake with a latte",
+    "cookies": "Thick pistachio, chocolate and red berry cookies",
+    "gateau-chocolat-coeur": "Heart-shaped slice of chocolate cake with a coffee",
+    "cake-tranche": "Slice of home-made loaf cake with an espresso",
+    "croissant": "Golden croissant next to an ube latte",
+    "pain-au-chocolat": "Pain au chocolat and coffee in a grey mug",
+    "gateau-safran-latte": "Saffron cake and a latte on a wooden table",
+    "latte-glace-fenetre": "Shekamou iced latte by the window, green plant behind",
+    "table-vue-dessus": "Table from above: latte art, tiramisu and a cookie",
+    "facade": "Shekamou's shopfront with its sign “L'art du bon café”, on the corner of rue des Entrepreneurs"
+  }
+}

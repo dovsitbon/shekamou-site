@@ -1,0 +1,66 @@
+{
+  "_doc": "Coordonnées et réglages généraux. rating / followers : chiffres relevés à la main (mettre à jour value, count et checked). whatsapp : portable au format international sans + (ex. 33612345678) ; vide tant que le café n'a donné que son fixe. S'il est rempli, un bouton WhatsApp apparaît et les demandes peuvent partir sur WhatsApp. order : commande à emporter (délai minimum avant retrait, jours proposés). trays : plateaux pour bureaux et fêtes, à confirmer avec le gérant (confirmed = false : le site parle de « demande », sans promesse). payment.enabled : paiement en ligne, désactivé par défaut. paymentMethods : à remplir (vide = non affiché).",
+  "name": "Shekamou",
+  "fullName": "Shekamou · Café Paris 15",
+  "url": "https://shekamou-paris.vercel.app",
+  "phone": "09 56 70 91 12",
+  "phoneIntl": "+33956709112",
+  "whatsapp": "",
+  "email": "",
+  "address": {
+    "street": "42 rue des Entrepreneurs",
+    "postalCode": "75015",
+    "city": "Paris",
+    "region": "Île-de-France",
+    "country": "FR"
+  },
+  "geo": {
+    "lat": 48.84609,
+    "lng": 2.28647
+  },
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shekamou+42+rue+des+Entrepreneurs+75015+Paris",
+  "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Shekamou+42+rue+des+Entrepreneurs+75015+Paris",
+  "mapsEmbed": "https://www.google.com/maps?q=Shekamou,+42+rue+des+Entrepreneurs,+75015+Paris&z=16&output=embed",
+  "instagram": "https://www.instagram.com/shekamoufr/",
+  "instagramHandle": "@shekamoufr",
+  "rating": {
+    "value": 4.8,
+    "count": 1200,
+    "countIsMin": true,
+    "source": "Google",
+    "checked": "2026-11-15"
+  },
+  "opened": "2025-02",
+  "roaster": "Terres de Café",
+  "priceRange": "3–13 €",
+  "order": {
+    "enabled": true,
+    "leadMinutes": 20,
+    "daysAhead": 2,
+    "stepMinutes": 15,
+    "maxPerLine": 20
+  },
+  "trays": {
+    "enabled": true,
+    "confirmed": false,
+    "minGuests": 5,
+    "maxGuests": 200,
+    "daysAhead": 180
+  },
+  "payment": {
+    "enabled": false,
+    "provider": "stripe",
+    "_doc": "Paiement de la commande à emporter en ligne, plus tard : passer enabled à true et renseigner STRIPE_SECRET_KEY sur Vercel (voir app/api/paiement/route.ts)."
+  },
+  "legal": {
+    "company": "Shekamou",
+    "siret": "",
+    "director": "",
+    "host": "Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, États-Unis"
+  },
+  "paymentMethods": {
+    "fr": "",
+    "en": "",
+    "fa": ""
+  }
+}

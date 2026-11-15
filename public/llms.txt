@@ -1,0 +1,34 @@
+# Shekamou
+
+> Café de spécialité et cuisine iranienne faite maison au 42 rue des Entrepreneurs, 75015 Paris (métro Charles Michels, ligne 10). Coffee shop moderne ouvert en février 2025 dans le « petit Téhéran » du 15e : latte art, ube latte, matcha, smoothies, brunch, sandwichs sur focaccia maison, âsh-e reshteh, haleem le week-end. Ouvert 7 j/7. Sur place ou à emporter. Site en français, anglais et persan.
+
+## L'essentiel
+- Adresse : 42 rue des Entrepreneurs, 75015 Paris
+- Téléphone : 09 56 70 91 12 (+33 9 56 70 91 12)
+- Horaires : du dimanche au vendredi 8 h – 20 h, le samedi 9 h – 21 h
+- Note Google : 4,8/5, plus de 1 200 avis (relevé le 15 novembre 2026)
+- Grains : Terres de Café (torréfacteur parisien), machine Conti
+- Wi-Fi gratuit, ordinateurs bienvenus en semaine, laits végétaux
+- Pas de réservation ; commande à emporter en ligne avec créneau de retrait ; aussi sur Deliveroo
+- Instagram : https://www.instagram.com/shekamoufr/
+- Le nom : « shekamou » (شکمو) veut dire « gourmand » en persan
+
+## Pages
+- [Accueil](https://shekamou-paris.vercel.app/fr)
+- [La carte et les prix](https://shekamou-paris.vercel.app/fr/carte)
+- [Commander à emporter](https://shekamou-paris.vercel.app/fr/commander)
+- [Café iranien à Paris : âsh-e reshteh, haleem, bandari](https://shekamou-paris.vercel.app/fr/cafe-iranien-paris)
+- [Coffee shop à Paris 15](https://shekamou-paris.vercel.app/fr/coffee-shop-paris-15)
+- [Plateaux pour bureaux et fêtes](https://shekamou-paris.vercel.app/fr/plateaux-bureaux-fetes)
+- [English version](https://shekamou-paris.vercel.app/en)
+- [نسخهٔ فارسی](https://shekamou-paris.vercel.app/fa)
+
+## Spécialités
+- Ube latte : boisson violette à l'ube (patate douce violette des Philippines), chaude ou glacée
+- Matcha mangue, espresso banana shake, smoothies, jus pressés, jus de grenade
+- Âsh-e reshteh : soupe iranienne épaisse aux herbes, légumineuses et nouilles, kashk, oignons frits, menthe (végétarienne)
+- Haleem : blé et viande mijotés, cannelle et sucre, le samedi et le dimanche
+- Adasi : soupe de lentilles iranienne
+- Sandwich bandari : saucisse épicée, sauce tomate, pommes de terre (street-food du sud de l'Iran)
+- Sandwichs sur focaccia maison : pastrami (12,90 €), poulet croustillant, jambon de poulet, thon, aubergine grillée
+- Douceurs : gâteau au safran, pistache et rose, gâteau à la pistache, roulé fraise-pistache, cookies, viennoiseries
